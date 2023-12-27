@@ -2,16 +2,6 @@
 
 The Phone Validation Microservice is a lightweight Java application that utilizes the Twilio API to validate phone numbers.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Twilio Account Setup](#twilio-account-setup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
